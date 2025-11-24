@@ -89,6 +89,7 @@ plt.show()
  # Output:
  <img width="1198" height="990" alt="ac 7" src="https://github.com/user-attachments/assets/6828a721-13ce-4dfe-b143-41aa09e95c1c" />
 
+![WhatsApp Image 2025-11-24 at 15 18 32_15586de5](https://github.com/user-attachments/assets/85e933fa-0279-4e86-910d-234c20827ad5)
 
 
  # Result :
